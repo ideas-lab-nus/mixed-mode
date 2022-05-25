@@ -309,4 +309,8 @@ nav .editor-link:hover, .editor-link .btn:hover, nav .nav-open nav .editor-link:
 
 .cms-editor-active nav .editor-link { display: inline; }
 
+.hero { position: relative; width: 100vw; height: 80vh; }
+
+.hero::before { content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url(../images/office.png); background-repeat: no-repeat; background-size: cover; background-position: center center; filter: brightness(40%); }
+
 /*# sourceMappingURL=screen.css.map */
