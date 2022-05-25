@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ideas-lab-nus.github.io/mixed-mode//sitemap.xml

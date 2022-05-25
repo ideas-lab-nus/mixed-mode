@@ -1,11 +1,11 @@
 ---
 date: 2020-08-12
-title: The history of marketing
+title: A real-time occupant centric sensing
 categories:
-  - marketing
-author_staff_member: robin
+  - Occupancy prediction
+author_staff_member: Zeynep
 ---
-The beginnings of digital marketing technology can be traced back to the 1980's, when computers became sophisticated enough to store huge volumes of customer information. For a brief moment, no one knew what would happen in digital marketing, but by the 90's it all became clear.
+A real-time occupant centric sensing is considered in this project consist of integrating different data sources through sensor fusion approach. 
 
 ![Man](https://source.unsplash.com/random/1500x1146)
 
