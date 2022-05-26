@@ -3,15 +3,15 @@
 #  new_window: false
 #  highlight: false
 - name: Research
-  link: /research/
+  link: /blog/
   new_window: false
   highlight: false
 - name: Case Study
-  link: /casestudy/
+  link: /pricing/
   new_window: false
   highlight: false
 - name: Team
-  link: /team/
+  link: /about/
   new_window: false
   highlight: false
 - name: Contact
